@@ -20,4 +20,6 @@ Month: The month in which the post was made.
 Day: The day of the month on which the post was made.
 Hour: The hour during which the post was made.
 Data Characteristics:
+No of column = 15
+No fo records=732
 The sentiment column is categorical, making this dataset suitable for supervised machine learning tasks aimed at sentiment classification.
